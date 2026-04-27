@@ -1,4 +1,4 @@
-
+new Scripts for fish it offers the most advanced fish it Script, with auto-sell and infinite resources. Perfect for dominating any match.
 
 
 
